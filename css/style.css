@@ -1,0 +1,32 @@
+h3{
+	color: green;
+	font-size: 30px;
+}
+.heading-1{
+background-color: pink;
+} 
+
+#text1{
+	border: 10px dashed red;
+}
+
+.box{
+	width: 10%;
+	height: 10em;
+	background-color: #758b60;
+} 
+.text01{
+	width:30px;
+	height: 10em;
+	background-color: rgba(148,97,157,0.6);
+}
+ 
+  /* .text2{
+	width: 100px;
+	height: 20em;
+	background-color:red;
+	font-size: 20px;
+} */ 
+
+ 
+
